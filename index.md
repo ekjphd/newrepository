@@ -1,7 +1,6 @@
-my-github-pages-site/
-├── .nojekyll
-├── index.html
-├── css/
-│   └── styles.css
-└── js/
-    └── scripts.js
+# Hello
+
+## Reflective Blog 1 
+This is my reflective blog about whatever the promtps were.
+
+
